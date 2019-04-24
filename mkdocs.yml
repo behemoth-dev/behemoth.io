@@ -1,0 +1,9 @@
+site_name: Behemoth.io
+theme: readthedocs
+nav:
+  - Home: index.md
+  - Hosting: how-to-cloud.md
+  - Pools: 
+    - RavenCoin: coins/ravencoin.md
+    - Beam: coins/beam.md
+  
